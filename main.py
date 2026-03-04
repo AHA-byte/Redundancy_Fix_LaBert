@@ -3,4 +3,3 @@ import numpy
 import pandas
 import matplotlib
 import genai
-import openai
